@@ -515,7 +515,7 @@ const Dashboard = () => {
                         Shrish Sunder
                       </span>
                       <img
-                      alt="profile photo"
+                      alt="profile user"
                         className="img-profile rounded-circle"
                         src="https://yt3.googleusercontent.com/ytc/AOPolaR0DwJM0PlU5KnjDO5TE4trYqoV4eT8CT2W1gS__A=s900-c-k-c0x00ffffff-no-rj"
                       />
