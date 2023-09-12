@@ -165,7 +165,7 @@ const Dashboard = () => {
                   <a className="collapse-item" href="/">
                     Landing Page-Contant
                   </a>
-                  <a className="collapse-item" href="">
+                  <a className="collapse-item" href="/">
                     Other Pages
                   </a>
                   <div className="collapse-divider"></div>
@@ -515,6 +515,7 @@ const Dashboard = () => {
                         Shrish Sunder
                       </span>
                       <img
+                      alt="profile photo"
                         className="img-profile rounded-circle"
                         src="https://yt3.googleusercontent.com/ytc/AOPolaR0DwJM0PlU5KnjDO5TE4trYqoV4eT8CT2W1gS__A=s900-c-k-c0x00ffffff-no-rj"
                       />
@@ -971,8 +972,7 @@ const Dashboard = () => {
                           Add some quality, svg illustrations to your project
                           courtesy of{" "}
                           <a
-                            target="_blank"
-                            rel="nofollow"
+                             target="_blank" rel="noreferrer"
                             href="https://undraw.co/"
                           >
                             unDraw
@@ -982,8 +982,7 @@ const Dashboard = () => {
                           attribution!
                         </p>
                         <a
-                          target="_blank"
-                          rel="nofollow"
+                           target="_blank" rel="noreferrer"
                           href="https://undraw.co/"
                         >
                           Browse Illustrations on unDraw &rarr;
