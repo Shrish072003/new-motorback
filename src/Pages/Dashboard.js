@@ -512,7 +512,7 @@ const Dashboard = () => {
                       aria-expanded="false"
                     >
                       <span className="mr-2 d-none d-lg-inline text-gray-600 small">
-                        Shrish Sunder
+                        Shrish Dev
                       </span>
                       <img
                       alt="profile user"
